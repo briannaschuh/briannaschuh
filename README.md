@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+Welcome to my GitHub!
+
+- 💼 I currently work as a Data Scientist in the FinTech industry
+- 📚 I hold a B.S. in Statistics and Data Science from Yale University
+- 🔍 I am interested in statistical optimization, deep learning, and generative AI
+
+Pleae feel free to connect with me on LinkedIn if you would like to chat!
+
+
 <!--
 **briannaschuh/briannaschuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
