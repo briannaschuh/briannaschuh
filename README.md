@@ -8,7 +8,7 @@ Welcome to my GitHub!
 
 Please feel free to message me on LinkedIn if you would like to chat!
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=briannaschuh&theme=nightowl_icons=true)]
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=briannaschuh&theme=nightowl&show_icons=true)]
 
 
 <!--
