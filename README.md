@@ -8,6 +8,8 @@ Welcome to my GitHub!
 
 Please feel free to message me on LinkedIn if you would like to chat!
 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=briannaschuh&theme=nightowl_icons=true)]
+
 
 <!--
 **briannaschuh/briannaschuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
