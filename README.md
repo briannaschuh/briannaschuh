@@ -1,4 +1,4 @@
-Data Scientist interested in AI.
+
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=briannaschuh&theme=nightowl&show_icons=true)]
 
