@@ -1,4 +1,4 @@
-
+Data Scientist interested in the intersection of AI engineering and backend development. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=briannaschuh&theme=nightowl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
