@@ -1,4 +1,4 @@
-Data Scientist passionate about AI engineering and backend development, exploring applications of Generative AI in language learning, video games, and soccer. 
+Data Scientist interested in AI engineering and backend development, exploring applications of Generative AI in language learning, video games, and soccer. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=briannaschuh&theme=nightowl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
